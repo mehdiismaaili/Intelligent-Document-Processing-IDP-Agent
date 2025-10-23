@@ -1,0 +1,16 @@
+# google-api-python-client 
+# google-auth-httplib2
+# google-auth-oauthlib
+# beautifulsoup4
+# email-monitor
+# numpy
+imap
+dotenv
+pytesseract
+pdf2image
+mysql-connector-python
+openai
+opencv-python
+celery
+celery[eventlet]
+redis

@@ -1,0 +1,7 @@
+.env
+.venv/
+tasks.py
+other/
+tools/
+_pycache_/
+credentials.json

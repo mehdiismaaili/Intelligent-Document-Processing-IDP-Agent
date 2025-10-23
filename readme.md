@@ -115,7 +115,7 @@ First, ensure WSL 2 is installed and enabled. If you haven't used it before, the
 4. You might need to **restart** your computer again after the installation.
     
 
-### 3. Run Docker Desktop
+##### 3. Run Docker Desktop
 
 After restarting, find "Docker Desktop" in your Start Menu and run it. The Docker whale icon 🐳 should appear in your system tray. Docker Desktop manages the Docker engine running inside WSL 2 for you. You can usually run `docker` commands from PowerShell or Command Prompt.
 
